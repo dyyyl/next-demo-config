@@ -17,7 +17,6 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Lightly Opinionated Next App Starter</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Container>
